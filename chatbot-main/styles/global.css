@@ -1,0 +1,10 @@
+.bg-image {
+  background-image: url("https://media-exp1.licdn.com/dms/image/C511BAQE4hH2p_6ZYiA/company-background_10000/0/1519799407243?e=2159024400&v=beta&t=MsUPis3WqhRRooeLWvEjNbJr4WqdZtfq9uJhgRrbKac");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
